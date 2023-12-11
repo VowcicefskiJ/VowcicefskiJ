@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VowcicefskiJ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Coding, Gaming, Travel, Camping and cooking
+- 🌱 I’m currently learning C++, Python and Java
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me JohnWVowcicefski@outlook.com
 
 <!---
